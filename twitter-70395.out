@@ -1,0 +1,13 @@
+Tue Feb 16 13:41:48 IST 2021
+
+SLURM_JOBID:		 70395
+SLURM_JOB_NODELIST:	 dt-gpu-03 
+
+
+[C 13:41:54.979 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/serfata/.local/share/jupyter/runtime/nbserver-14586-open.html
+    Or copy and paste one of these URLs:
+        https://132.72.80.123:9984/?token=41efc4bdfd8eaf58967e9d810e11996ce0be15e0ad0bb73a
+     or https://127.0.0.1:9984/?token=41efc4bdfd8eaf58967e9d810e11996ce0be15e0ad0bb73a
